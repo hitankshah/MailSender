@@ -1,5 +1,5 @@
 {
-  "name": "mailsender",
+  "name": "mailsender pro",
   "version": "1.0.0",
   "description": "An advanced npm package to generate and send OTPs via email for verification purposes with enhanced features.",
   "main": "index.js",
@@ -15,7 +15,8 @@
     "email",
     "verification",
     "security",
-    "mailer"
+    "mailer",
+    "nodemailer"
   ],
   "author": "Hitank Shah <Hitankjain@egmail.com>, Maharshi Agrawal <maharshiagrawal93@gmail.com>, Saksham Jain <jainsaksham0101001@example.com>, Vedant Dongare <dongrevedant@example.com>",
   "license": "MIT",

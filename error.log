@@ -1,3 +1,1 @@
-{"address":"::1","code":"ESOCKET","command":"CONN","errno":-4078,"level":"error","message":"Error sending OTP: connect ECONNREFUSED ::1:465","port":465,"stack":"Error: connect ECONNREFUSED ::1:465\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16)","syscall":"connect"}
-{"address":"::1","code":"ESOCKET","command":"CONN","errno":-4078,"level":"error","message":"Error sending OTP: connect ECONNREFUSED ::1:465","port":465,"stack":"Error: connect ECONNREFUSED ::1:465\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16)","syscall":"connect"}
-{"address":"::1","code":"ESOCKET","command":"CONN","errno":-4078,"level":"error","message":"Error sending OTP: connect ECONNREFUSED ::1:465","port":465,"stack":"Error: connect ECONNREFUSED ::1:465\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16)","syscall":"connect"}
+
