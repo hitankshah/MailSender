@@ -22,7 +22,7 @@ An advanced npm package to generate and send OTPs via email for verification pur
 ## Installation
 
 ```bash
-npm install mailsender
+npm install mailsender-pro
 
 
 1. Check SMTP Server Details
