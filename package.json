@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hitankshah/mailsender"
+    "url": "git+https://github.com/hitankshah/mailsender"
   },
   "keywords": [
     "otp",
@@ -18,12 +18,11 @@
     "mailer"
   ],
   "author": "Hitank Shah <Hitankjain@egmail.com>, Maharshi Agrawal <maharshiagrawal93@gmail.com>, Saksham Jain <jainsaksham0101001@example.com>, Vedant Dongare <dongrevedant@example.com>",
-
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hitankshah/mailsender/issues"
+    "url": "https://github.com/hitankshah/mailsender"
   },
-  "homepage": "https://github.com/hitankshah/mailsender#readme",
+  "homepage": "https://github.com/hitankshah/mailsender",
   "dependencies": {
     "nodemailer": "^6.7.1",
     "otp-generator": "4.0.1",
@@ -31,5 +30,6 @@
     "crypto-js": "^4.1.1",
     "rate-limiter-flexible": "^2.2.6",
     "winston": "^3.8.2"
-  }
+  },
+  "devDependencies": {}
 }
