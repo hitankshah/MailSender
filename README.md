@@ -141,7 +141,7 @@ To run the tests for the package, use:
 
 npm test
 
-# Contributing
+#Contributing
 Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
 Make your changes.
