@@ -1,6 +1,6 @@
 {
   "name": "mailsender-pro",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "description": "An advanced npm package to generate and send OTPs via email for verification purposes with enhanced features.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hitankshah/mailsender"
+    "url": "git+https://github.com/hitankshah/mailsender.git"
   },
   "keywords": [
     "otp",
@@ -16,9 +16,14 @@
     "verification",
     "security",
     "mailer",
-    "nodemailer"
+    "nodemailer",
+    "otpgenerator",
+    "emailsender",
+    "mailsender",
+    "mailsenderpro",
+    "mailsender"
   ],
-  "author": "Hitank Shah <Hitankjain@egmail.com>, Maharshi Agrawal <maharshiagrawal93@gmail.com>, Saksham Jain <jainsaksham0101001@example.com>, Vedant Dongare <dongrevedant@example.com>",
+  "author": "Hitank Shah <Hitankjain@egmail.com>, Maharshi Agrawal <maharshiagrawal93@gmail.com>, Saksham Jain <jainsaksham0101001@gmail.com>, Vedant Dongare <dongrevedant79@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hitankshah/mailsender"

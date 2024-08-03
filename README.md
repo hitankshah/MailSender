@@ -153,4 +153,4 @@ Create a new Pull Request.
 Hitank Shah - Hitankjain@gmail.com
 Maharshi Agrawal - maharshiagrawal93@gmail.com
 Saksham Jain - jainsaksham0101001@gmail.com
-Vedant Dongare - dongrevedant@gmail.com
+Vedant Dongare - dongrevedant79@gmail.com
